@@ -12,7 +12,7 @@ Este trabajo forma parte de la Práctica Calificada 2 (PC2).
 
 ---
 
-## 🔹 Descripción
+# Descripción
 
 El proyecto representa a cada criptomoneda como un **nodo** enriquecido con métricas de mercado 
 (precio, capitalización, volumen, suministro) y atributos técnicos/sociales 
@@ -28,4 +28,4 @@ Esta red permite analizar:
 - Patrones de conectividad,
 - Posibles agrupamientos de mercado (clústeres).
 
----
+
